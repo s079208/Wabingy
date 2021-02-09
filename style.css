@@ -3,7 +3,7 @@ body{
     font-size: 18px;
     line-height: 25px;
     color: #444444;
-    
+    overflow: hidden;
 }
 main{
     width: 80vw;
@@ -65,7 +65,7 @@ header nav{
     margin: auto;
 }
 nav{
-    
+
 }
 
 
